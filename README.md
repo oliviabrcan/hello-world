@@ -1,4 +1,4 @@
 # hello-world
-## 2nd level
-## 3rd level
+## 2nd level heading
+## 3rd level heading
 
